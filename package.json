@@ -1,0 +1,26 @@
+{
+  "name": "react-on-rails",
+  "version": "1.0.0",
+  "description": "React on Rails App",
+  "main": "index.js",
+  "directories": {
+    "test": "test"
+  },
+  "dependencies": {
+    "express": "^4.15.2"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ovidiucota/react-on-rails.git"
+  },
+  "author": "ovidiu",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ovidiucota/react-on-rails/issues"
+  },
+  "homepage": "https://github.com/ovidiucota/react-on-rails#readme"
+}
